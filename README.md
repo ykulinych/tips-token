@@ -1,0 +1,2 @@
+# tips-token
+smart contract
